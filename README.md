@@ -1,4 +1,4 @@
-# DesinyBot
+# DestinyBot
 
 A Discord bot created with the main purpose of servicing requests to the Bungie API in order to retrieve
 data for Destiny. This bot will serve as a means to learn Python.  
