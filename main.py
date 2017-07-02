@@ -11,7 +11,7 @@ def parse_arguments():
 
     These command line arguments should consist of the following:
 
-    --auth      : The \"authentication.json\" file that is required containing API tokens
+    -a | --auth : The \"authentication.json\" file that is required containing API tokens
     -h | --help : Display this help text
 
     :return: args
